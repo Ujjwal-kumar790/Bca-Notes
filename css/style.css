@@ -86,3 +86,11 @@ body{
 .hover:hover{
     text-decoration: none;
 }
+@media (max-width:585px) {
+    .first-h1{
+        font-size: 2rem;
+    }
+    .logo-img{
+        width: 20%;
+    }
+}
